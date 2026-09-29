@@ -1,0 +1,15 @@
+DEMO HR POLICY — REPLACE WITH APPROVED COMPANY POLICY BEFORE PRODUCTION
+
+Leave requests:
+Employees should submit leave requests through the organization's approved HR system and follow their manager's approval workflow. For balances, eligibility, holidays, or urgent exceptions, contact HR.
+
+Remote work:
+Remote-work eligibility and schedules depend on the employee's role and applicable company policy. Confirm current arrangements with the manager or HR.
+
+Payroll:
+For payroll dates, payslips, tax documents, or corrections, use the official payroll portal or contact the payroll/HR team.
+
+Benefits:
+Benefit eligibility, coverage, enrollment windows, and dependents are governed by the current official benefits documentation. Contact HR for individual eligibility.
+
+This sample content is fictional and is provided only to demonstrate ingestion and retrieval. Do not use it to make employment decisions.
